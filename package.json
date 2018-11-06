@@ -1,0 +1,28 @@
+{
+  "name": "jquery.thrive",
+  "version": "1.0.0",
+  "description": "Yet another full-fledged jQuery progress indicator button plugin with bare minimum code",
+  "main": "./dist/jquery.thrive.min.js",
+  "ecosystem": "jquery",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/effone/jquery.thrive.git"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "button",
+    "progress",
+    "bare",
+    "small",
+    "tiny"
+  ],
+  "author": "effone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/effone/jquery.thrive/issues"
+  },
+  "homepage": "https://github.com/effone/jquery.thrive#readme"
+}
