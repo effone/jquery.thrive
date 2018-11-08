@@ -30,7 +30,7 @@ To see the progress in thrive button all you need to do is push the progress int
 thrive.progress(value);
 ```
 *Note:*
-- The value is the progress of some process. Note that the value is in scale on `0` to `1` which will be converted to `%` value within the plugin. So, don't pass percent value directly. For example, a progress of `73%` represents the value to be `0.73`.
+- The value is the progress of some process. Note that the value is in scale of `0` to `1` which will be converted to `%` value within the plugin. So, don't pass percent value directly. For example, a progress of `73%` reprecents the value to be `0.73`.
   
 - It is _required_ to define your button for thrive in `<button>...</button>` tag. thrive doesn't work with `<input>` buttons.
 
